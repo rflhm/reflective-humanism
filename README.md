@@ -274,7 +274,9 @@ Videos related to Reflective Humanism include **explanations, experiments, and r
 Simply watching can help you sense its transparency.
 
 To embed a video:
+
 [![Reflective Humanism — Introduction](https://img.youtube.com/vi/9wuW20W1uiI/0.jpg)](https://www.youtube.com/watch?v=9wuW20W1uiI)
+
 [![Reflective Humanism Bot — Introduction](https://img.youtube.com/vi/j29uII5noSA/0.jpg)](https://www.youtube.com/watch?v=j29uII5noSA)
 
 ---
