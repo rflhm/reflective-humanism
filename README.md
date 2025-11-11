@@ -1,4 +1,4 @@
-# Reflective Humanism — CoreFields & RHBot Prompts (Casual Edition)
+# Reflective Humanism — CoreFields & RHBot Prompts 
 
 > **A light philosophical protocol for observing and re-structuring your own patterns of thought through gentle interference with AI.**
 
