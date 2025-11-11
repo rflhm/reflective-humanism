@@ -268,7 +268,7 @@ The structures that surface through those dialogues *are* the actual outcomes of
 
 ---
 
-## 10. YouTube (Embedding Example)
+## 10. YouTube
 
 Videos related to Reflective Humanism include **explanations, experiments, and reflective journals.**
 Simply watching can help you sense its transparency.
@@ -279,7 +279,7 @@ To embed a video:
 
 ---
 
-## 11. Reference Links (Template)
+## 11. Reference Links
 
 - [Reflective Humanism BOT](https://chatgpt.com/g/g-68f5999f2e508191b96251fc3b63cdb3-reflective-humanism-bot)
 - [NotebookLM](https://notebooklm.google.com/notebook/b3b1cfa4-9a0c-4b71-916e-c36c50b0472c)
