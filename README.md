@@ -164,6 +164,22 @@ Implements CoreFields in practice. With RHBot, a model becomes **a reflective di
 
 ## 4. Usage & Effects
 
+Using Reflective Humanism is extremely simple.  
+**Attach the file “ReflectiveHumanism_CoreField.txt” to any standard LLM chat window and ask:**
+
+> “Please respond in the interpretation of Reflective Humanism.”
+
+That’s all. The AI will shift into a reflective mode, and you’ll notice a different rhythm of explanation and tone immediately.  
+No special settings or prompt engineering are required.
+
+**First test question (recommended):**
+
+> “How is this different from a normal LLM?”
+
+Such meta-questions—where the AI reflects on its own mode of response—are the most natural entry point into Reflective Humanism.
+
+---
+
 RH can be attached to GPT-5, Gemini, or Grok as follows.
 
 ### 🧩 Using CoreFields Only
@@ -293,3 +309,4 @@ To embed a video:
 
 > These are records connecting philosophy and implementation.
 > The file structure is open; modify and evolve freely within your own environment.
+
