@@ -173,9 +173,25 @@ Reflective Humanism は二層構造で設計されています。
 
 ---
 
-## 4. 効用と使い方（What Happens When You Use It）
+### 4. 効用と使い方（What Happens When You Use It）
 
-Reflective Humanism のツールは **CoreFields（思想OS）** と **RHBot（フレームワーク）** の “二段構成” です。ここでは、両者を別々に与えたときに **GPT‑5・Gemini・Grok のような異なるモデルがどんな反応を示すのか**、そして **組み合わせたときに何が起こるのか** を、実際の使用感に近い形で整理します。
+Reflective Humanism の使い方はとてもシンプルです。
+一般的な LLM のチャット画面に、”ReflectiveHumanism_CoreField.txt”を添付して、次のように問いかけるだけです：
+
+「Reflective Humanism の解釈で回答してください。」
+
+これだけで、AI が RH 的な観測姿勢を持ち、応答のトーンや構造が変化します。
+難しい設定やカスタムプロンプトを用意する必要はありません。
+
+例：Reflective Humanism の解釈で回答してください。
+
+テスト用のはじめての問い：
+
+「普通のLLMと何が違いますか？」
+
+このように、AI自身との関係を問うメタ的な質問がもっとも自然な導入になります。
+
+Reflective Humanism のツールは CoreFields（思想OS） と RHBot（フレームワーク） の “二段構成” です。ここでは、両者を別々に与えたときに GPT‑5・Gemini・Grok のような異なるモデルがどんな反応を示すのか、そして 組み合わせたときに何が起こるのか を、実際の使用感に近い形で整理します。
 
 ---
 
@@ -338,4 +354,5 @@ Reflective Humanism 関連の動画を紹介する場合、Readme には以下�
 
 > これらは思想と実装を接続する観測点の記録です。\
 > ファイル構成は固定せず、各自の環境に合わせて再帰的に更新して構いません。
+
 
