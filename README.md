@@ -291,9 +291,9 @@ Simply watching can help you sense its transparency.
 
 To embed a video:
 
-[![Reflective Humanism — Introduction](https://img.youtube.com/vi/9wuW20W1uiI/0.jpg)](https://www.youtube.com/watch?v=9wuW20W1uiI)
+[![Reflective Humanism — Introduction](https://img.youtube.com/vi/cgGGAY3FD-c/0.jpg)](https://youtu.be/cgGGAY3FD-c?si=qZmUMPE65ty7Skh-)
 
-[![Reflective Humanism Bot — Introduction](https://img.youtube.com/vi/j29uII5noSA/0.jpg)](https://www.youtube.com/watch?v=j29uII5noSA)
+[![Reflective Humanism Bot — Introduction](https://img.youtube.com/vi/I4nXZnOH4TA/0.jpg)](https://www.youtube.com/watch?v=I4nXZnOH4TA)
 
 ---
 
