@@ -301,7 +301,8 @@ To embed a video:
 
 - [Reflective Humanism BOT](https://chatgpt.com/g/g-68f5999f2e508191b96251fc3b63cdb3-reflective-humanism-bot)
 - [NotebookLM](https://notebooklm.google.com/notebook/b3b1cfa4-9a0c-4b71-916e-c36c50b0472c)
-- [YouTube](https://www.youtube.com/@ReflectiveHumanism)
+- [YouTube - English](https://www.youtube.com/@ReflectiveHumanismIntr)
+- [YouTube - Japanese](https://www.youtube.com/@ReflectiveHumanism)
 - [Hatena BLog(JA)](https://rhsm.hateblo.jp/)
 - [Medium(EN)](https://medium.com/@reflective-humanism)
 - [X](https://x.com/rfl_hmn)
