@@ -1,3 +1,7 @@
+# Reflective Humanism — CoreFields v1.4
+
+（This is the upgraded, reorganized edition integrating the Transparent Pain chapter and structural refinements.)
+
 Reflective Humanism — 構造的指針（Refactored 2025＋干渉三相統合版）
 Ⅰ. 目的層（Purpose）
 
